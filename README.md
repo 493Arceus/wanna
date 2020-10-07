@@ -36,7 +36,6 @@
 (!!!为typecho输出html的方法!!! [ html代码 ] !!!)
 
 > 
-    !!!
      <a href="博客链接">
         <div class="linksCard">
             <div class="colorBG"></div>
@@ -49,4 +48,3 @@
             </div>
         </div>
       </a>
-    !!! 
